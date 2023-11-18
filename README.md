@@ -113,7 +113,6 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![Alt text](output.png)
-
+![WhatsApp Image 2023-11-18 at 10 25 13_f925c063](https://github.com/Madhan213/cover/assets/130206230/c29af0c1-0ed3-4df2-b9ae-40059ccc99a2)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
